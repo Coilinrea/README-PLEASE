@@ -9,4 +9,4 @@ README PLEASE
 README PLEASE
 
 Mip Map click click
-Mip Map click click
+Mip Map click clic
