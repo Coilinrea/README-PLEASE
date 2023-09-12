@@ -3,5 +3,4 @@ README PLEASE
 README PLEASE
 
 Mip Map click click
-Mip Map click 
-#
+Mip Map cli
