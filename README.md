@@ -8,8 +8,6 @@ StylishDemon        const profileId = data.prof
 ewPa
 (resolve, 1500));browser.newPappsharde
 
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].
 # StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
