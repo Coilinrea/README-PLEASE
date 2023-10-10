@@ -9,10 +9,6 @@ StylishDemon        const profileId = data.prof
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        cons
-        const profilePassword = data.profiles[i].password;
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;
         const accountNumber = data.profiles[i].account_number;
 
 
