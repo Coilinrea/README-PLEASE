@@ -7,8 +7,6 @@ StylishDemon        const profileId = data.prof
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
                     }
 
-                    async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
-StylishDemon        const profileId = data.iles[i        cons
         const accountNumber = data.profiles[i].account_number;
 
 
