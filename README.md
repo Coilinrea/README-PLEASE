@@ -15,13 +15,6 @@ iles[i].id;
         const profilePassword = da.profile[i].p
         const accountNumber = daa.profiles[i].account_numb
 # README-PLEASE
-README PLEA
-Mip Map click cl
-M
-# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
-ewPa
 (resolve, 1500));browser.newPappsharde
 
 
