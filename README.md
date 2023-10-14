@@ -7,8 +7,6 @@ StylishDemon        const profileId = data.prof
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
                     }
 
-        const accountNumber = data.profiles[i].account_number;
-
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
