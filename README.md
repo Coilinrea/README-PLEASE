@@ -1,6 +1,5 @@
 # README-PLEASE
-README PLEA
-Mip Map click cl
+README Plick cl
 M
 # StylishDemon
 StylishDemon        const profileId = data.prof
