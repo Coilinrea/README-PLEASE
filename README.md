@@ -1,6 +1,5 @@
 # README-PLEASE
-README Plick cl
-M
+README Plick 
 # StylishDemon
 StylishDemon        const profileId = data.prof
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
