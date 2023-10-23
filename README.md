@@ -1,8 +1,7 @@
 # README-PLEASE
 README Plick 
 # StylishDemon
-StylishDemon        const profileId = data.prof
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+StylishDemon        const profileId = dae, 1500));browser.newPappshardeum.o
                     }
 
 
