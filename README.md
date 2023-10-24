@@ -1,9 +1,7 @@
 # README-PLEASE
 README Plick 
 # StylishDemon
-StylishDemon        const profileId = dae, 1500));browser.newPappshardeum.o
-                    }
-
+StylishDemon        const profil
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_n
