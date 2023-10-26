@@ -1,7 +1,7 @@
 # README-PLEASE
 README 
 # StylishDemon
-StylishDemon        const profil
+Styl        const profil
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_n
