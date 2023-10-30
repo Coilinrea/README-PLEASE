@@ -1,6 +1,5 @@
 # README-PLEASE
 README 
-# Stylish
 Styl        const profil
 
 iles[i].id;
