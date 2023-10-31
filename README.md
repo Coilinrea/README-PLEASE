@@ -1,6 +1,6 @@
 # README-PLEASE
 README 
-Styl        const profil
+Styl        con
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_n
