@@ -4,9 +4,7 @@ LEASE
 
 iles[i].id;
 count_number;= data.profiles[i]
-        const accountNumber = dae4.waitForNetworkIdle(l
-                        await page4.waitForSelector(elementSelector5
-                        await page4.click(elementSelector5);
+        const accountNumber = dae4.waitForNetentSelector5);
                         await page4.warofili].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
