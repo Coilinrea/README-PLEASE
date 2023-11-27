@@ -2,8 +2,6 @@
 
 LEASE
 
-iles[i].id;
-count_number;= data.profiles[i]
         const accountNumber = dae4.waitForNetentSelector5);
                         await page4.warofili].password;
 iles[i].id;
