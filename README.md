@@ -1,6 +1,4 @@
-
-4.waitFelementSelector5);
-                        await page4.waitForNetworkIdle(
+tworkIdle(
 iles[i].id;ount_n
 
         // DATA FIELD
