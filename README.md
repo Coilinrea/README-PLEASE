@@ -1,6 +1,4 @@
 
-
-        // DATA FIELD
         const profileId = data.profiles[i].id;
         const githubRoute = data.profiles[i].githubRepo;
         // END OF DATA FIELD
