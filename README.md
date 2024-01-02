@@ -11,11 +11,6 @@ console.l await puppet=s[i tForlementSelector5);e
 
         console.log(`ACCOUNT Nonst profileId = data.profiles[i].
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        console.log(`ACCOUNT Nonst profileId = data.profiles[i].
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        console.log(`ACCOUNT Nonst profileId = data.profiles[i].
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        console.log(`ACCOUNT Nonst profileId = data.profiles[i].
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT Nonst profileId = data.profiles[i].
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
